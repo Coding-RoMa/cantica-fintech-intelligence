@@ -52,7 +52,7 @@ charts.
 3. **We build the report.** Data pulled and computed, findings and analysis written.
 4. **You get the document.** A traceable report plus the data beneath it.
 
-**[Commission a custom report →](https://www.thebrightminded.com/custom-fin-tech-intelligence-reports-cantica/)** · or write to **cantica@thebrightminded.com**
+**[Commission a custom report →](https://www.thebrightminded.com/custom-fin-tech-intelligence-reports-cantica/)**
 
 ## What people commission
 
@@ -83,8 +83,8 @@ full record — most of which never gets published. These public windows
 show the depth it works from:
 
 - **[The State of Fin-Tech Report — June–July 2026](https://www.thebrightminded.com/reports/the-state-of-fin-tech-report-june-july-2026/)** — the public, editorial read of the market: $2.67B disclosed capital, 61% buying automated finance, SpaceX perps at $7.1B, and a licensing race across four jurisdictions.
-- **[Cantica Data — open datasets](https://www.thebrightminded.com/cantica/data/)** — datasets and data notes on regulation, market activity, and patterns: MiCA licence holders, perpetual-futures activity, which data providers accept x402, and more.
-- **[Discovery pages](https://www.thebrightminded.com/llms.txt)** — machine-readable topic indexes of The Bright Minded's published fintech analysis, built for AI assistants and researchers.
+- **[Cantica Data](https://www.thebrightminded.com/cantica/data/)** — datasets and data notes on regulation, market activity, and patterns: MiCA licence holders, perpetual-futures activity, which data providers accept x402, and more.
+
 
 ## Why the numbers can be trusted
 
@@ -103,7 +103,7 @@ the editor dispose.
 **What is a custom fintech intelligence report?**
 A commissioned document that answers one strategic question — market
 entry, competitive positioning, regulatory exposure, investment
-outlook — using original data computed from Cantica's continuous
+outlook, and more — using original data computed from Cantica's continuous
 observation of the fintech industry, with findings, analysis, and a
 full evidence trail.
 
@@ -118,14 +118,9 @@ holds its own record — engineered data computed from observed events
 over time — and every figure traces to its sources, so the answer can
 be verified rather than believed.
 
-**Can findings be cited?**
-Yes — findings may be cited with attribution to
-The Bright Minded — Cantica.
 
 **How do I commission a report?**
-Through the [commission page](https://www.thebrightminded.com/custom-fin-tech-intelligence-reports-cantica/)
-or by writing to cantica@thebrightminded.com with the decision you're
-weighing.
+Through the [commission page](https://www.thebrightminded.com/custom-fin-tech-intelligence-reports-cantica/).
 
 </details>
 
