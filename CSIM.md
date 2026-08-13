@@ -7,6 +7,8 @@ questions from the record it builds. This document sets out the method: how
 the record is constructed, how a question is resolved against it, what governs
 the strength of each claim, and what a client can verify.
 
+To commission a custom Fin-Tech intelligence report: Custom Fin-Tech Intelligence Reports ["https://www.thebrightminded.com/custom-fin-tech-intelligence-reports-cantica/"]
+
 ---
 
 ## The record
